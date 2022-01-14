@@ -1,0 +1,17 @@
+{
+    "name": "burger/common",
+    "description": "common things",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Darnell Collins",
+            "email": "collinsdarnell44@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Burger\\Common\\": "src/"
+        }
+    }
+}
